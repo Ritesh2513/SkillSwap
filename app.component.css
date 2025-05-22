@@ -1,0 +1,12 @@
+.card_content {
+    margin-top: 100px;  /* Increased margin to prevent overlap */
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.org {
+    position: relative;
+    z-index: 1000;
+}
